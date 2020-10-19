@@ -48,3 +48,17 @@ background-size: cover;
     text-decoration: none;
     
 }
+.resume{
+    object-position: center;
+    flex: 1;
+}
+.contact-links ul li{
+    flex: 1;
+    list-style: none;
+    padding: 8px 12px;
+    color: white;
+}
+.contact-links{
+    flex: 1;
+    text-align: center;
+}
