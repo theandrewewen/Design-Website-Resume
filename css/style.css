@@ -51,6 +51,7 @@ background-size: cover;
 .resume{
     object-position: center;
     flex: 1;
+    margin: auto;
 }
 .contact-links ul li{
     flex: 1;
